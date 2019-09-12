@@ -15,9 +15,9 @@ class Intro extends React.Component {
   introText() {
     return (
       <div>
-      <h1>Welcome to my game</h1>
-      <h2>The game is designed to introduce the basics of music theory</h2>
-      <h2>Ready to begin?</h2>
+        <h1>Welcome to my game</h1>
+        <h2>The game is designed to introduce the basics of music theory</h2>
+        <h2>Ready to begin?</h2>
       </div>
     );
   };

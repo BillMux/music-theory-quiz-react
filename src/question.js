@@ -4,6 +4,5 @@ class Question extends React.Component {
     this.state = {
       isShow: false
     };
-    this.hideIntro = this.hideIntro.bind(this);
   };
 }
